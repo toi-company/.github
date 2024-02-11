@@ -1,4 +1,8 @@
 ## Hi there 👋
+
+### Who are we?
+We are a group of creators who develop and create content in various directions, mainly related to **Minecraft**.
+
 ### What are we doing?
 - [WIP] Toisgun | Developed by toitoi110
 - [Pre-release] Animated Item Generator (Not distributed) | Developed by yumi_craft15
