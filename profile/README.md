@@ -4,7 +4,7 @@
 - [Pre-release] Animated Item Generator (Not distributed) | Developed by yumi_craft15
 - [Pre-release] Custom Magic Datapack (Not distributed) | Developed by toitoi110
 - [WIP] Custom Block/Vehicle Datapack (haven't done anything yet :<) | Developed by yumi_craft15
-- [WIP] Custom Block/Vehicle Datapack (haven't done anything yet :<) | Developed by yumi_craft15
+- [WIP] Werewolf System | Developed by kibou
 - [Planing] Toi's Custom Vehicle Datapack | Developed by toitoi110
 
 Thanks to **puzupuzuu**'s  godlike **infrastructure**, we can develop them with peace of mind!
