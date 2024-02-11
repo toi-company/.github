@@ -16,6 +16,9 @@ Deep gratitude to them!
 Thanks to **Hololo**'s great **buildings**, we can provide you with a great map!
 Deep gratitude to them!
 
+Thanks to **Noraneko**'s **programing skills**, We can simplify daily tasks
+Deep gratitude to them!
+
 We would like to thank our other wonderful colleagues and everyone involved in this development!
 
 <!--
